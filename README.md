@@ -1,2 +1,2 @@
 # Maximl-assignment
-Smallest Substring of all different lengths.
+Finding the length of the smallest Substring having all distinct elements.
